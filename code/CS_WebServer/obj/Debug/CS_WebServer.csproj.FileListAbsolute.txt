@@ -1,0 +1,6 @@
+C:\Users\jashliao\Desktop\CS_WebServer\CS_WebServer\bin\Debug\CS_WebServer.exe.config
+C:\Users\jashliao\Desktop\CS_WebServer\CS_WebServer\bin\Debug\CS_WebServer.exe
+C:\Users\jashliao\Desktop\CS_WebServer\CS_WebServer\bin\Debug\CS_WebServer.pdb
+C:\Users\jashliao\Desktop\CS_WebServer\CS_WebServer\obj\Debug\CS_WebServer.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS_WebServer\CS_WebServer\obj\Debug\CS_WebServer.exe
+C:\Users\jashliao\Desktop\CS_WebServer\CS_WebServer\obj\Debug\CS_WebServer.pdb
