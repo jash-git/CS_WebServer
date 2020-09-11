@@ -132,10 +132,15 @@ namespace CS_WebServer
             StringBuilder sb = new StringBuilder();
             sb.Append(@"
             <html><head><title>Index</title>
-            <style type='text/css'>img { 
+            <style type='text/css'>
+            img { 
                 width:100%;float: left;
                 margin: 0px;
-            }</style>
+            }
+            body {
+                margin: 0px; background: #0e0e0e;
+            }
+            </style>
             </head><body>
             ");
             sb.Append("");
